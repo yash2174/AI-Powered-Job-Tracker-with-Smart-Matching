@@ -23,13 +23,15 @@ const fastify = Fastify({
 
 // 👉 SERVE FRONTEND BUILD
 fastify.register(fastifyStatic, {
-  root: path.join(__dirname, "../frontend"),
-  prefix: "/", // serve at root
+  root: path.join(__dirname, "../frontend/dist"),
+  prefix: "/"
 });
 
-// 👉 SPA FALLBACK (VERY IMPORTANT)
-fastify.get("/*", async (request, reply) => {
-  return reply.sendFile("index.html");
+fastify.setNotFoundHandler((request, reply) => {
+  if (!request.raw.url.startsWith("/api")) {
+    return reply.sendFile("index.html");
+  }
+  reply.code(404).send({ message: "Route not found" });
 });
 
 // Register plugins
