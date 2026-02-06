@@ -5,6 +5,8 @@ import multipart from '@fastify/multipart';
 import path from 'path';
 import { fileURLToPath } from 'url';
 import pdf from 'pdf-parse/lib/pdf-parse.js';
+import fastifyStatic from "@fastify/static";
+
 
 // Services
 import adzunaService from './services/adzunaService.js';
