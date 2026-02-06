@@ -1,0 +1,196 @@
+{
+  "jobs": [
+    {
+      "id": "mock-1",
+      "title": "Senior Full Stack Developer",
+      "company": "TechCorp Solutions",
+      "location": "Bangalore, India",
+      "description": "We are seeking an experienced Full Stack Developer with expertise in React, Node.js, and MongoDB. The ideal candidate will have 5+ years of experience building scalable web applications. Experience with AWS, Docker, and Kubernetes is a plus. You will work on cutting-edge projects using modern technologies including TypeScript, GraphQL, and microservices architecture.",
+      "redirect_url": "https://boards.greenhouse.io",
+      "created": "2026-02-04T10:00:00Z",
+      "contract_type": "full_time",
+      "category": {
+        "label": "IT Jobs"
+      },
+      "salary_min": 1200000,
+      "salary_max": 1800000,
+      "adref": "mock-1"
+    },
+    {
+      "id": "mock-2",
+      "title": "React Frontend Developer",
+      "company": "Innovative Labs",
+      "location": "Remote",
+      "description": "Join our team as a React Frontend Developer. Required skills: React.js, Redux, TypeScript, CSS-in-JS, responsive design. Experience with Next.js and testing libraries (Jest, React Testing Library) preferred. You'll collaborate with designers and backend developers to create beautiful, performant user interfaces.",
+      "redirect_url": "https://jobs.lever.co",
+      "created": "2026-02-03T14:30:00Z",
+      "contract_type": "full_time",
+      "category": {
+        "label": "IT Jobs"
+      },
+      "salary_min": 900000,
+      "salary_max": 1400000,
+      "adref": "mock-2"
+    },
+    {
+      "id": "mock-3",
+      "title": "Backend Node.js Engineer",
+      "company": "DataFlow Inc",
+      "location": "Mumbai, India",
+      "description": "Looking for a Backend Engineer with strong Node.js and Express.js experience. Must have knowledge of REST APIs, PostgreSQL, Redis, and authentication systems. Experience with message queues (RabbitMQ/Kafka) and event-driven architecture is highly valued. You will design and implement scalable backend services.",
+      "redirect_url": "https://careers.microsoft.com",
+      "created": "2026-02-02T09:15:00Z",
+      "contract_type": "full_time",
+      "category": {
+        "label": "IT Jobs"
+      },
+      "salary_min": 1000000,
+      "salary_max": 1600000,
+      "adref": "mock-3"
+    },
+    {
+      "id": "mock-4",
+      "title": "DevOps Engineer",
+      "company": "CloudNative Systems",
+      "location": "Hyderabad, India",
+      "description": "DevOps Engineer needed with experience in AWS, Docker, Kubernetes, CI/CD pipelines, and infrastructure as code (Terraform). You should be proficient in Linux administration, shell scripting, and monitoring tools like Prometheus and Grafana. Jenkins and GitLab CI/CD experience required.",
+      "redirect_url": "https://careers.amazon.jobs",
+      "created": "2026-02-01T11:45:00Z",
+      "contract_type": "contract",
+      "category": {
+        "label": "IT Jobs"
+      },
+      "salary_min": 1100000,
+      "salary_max": 1700000,
+      "adref": "mock-4"
+    },
+    {
+      "id": "mock-5",
+      "title": "UI/UX Designer",
+      "company": "DesignHub",
+      "location": "Pune, India",
+      "description": "Creative UI/UX Designer with strong portfolio. Proficient in Figma, Adobe XD, and design systems. Understanding of user research, wireframing, prototyping, and usability testing. Experience with HTML/CSS is a plus. You'll work closely with product managers and developers.",
+      "redirect_url": "https://careers.microsoft.com",
+      "created": "2026-01-31T16:20:00Z",
+      "contract_type": "full_time",
+      "category": {
+        "label": "Design Jobs"
+      },
+      "salary_min": 700000,
+      "salary_max": 1200000,
+      "adref": "mock-5"
+    },
+    {
+      "id": "mock-6",
+      "title": "Data Scientist",
+      "company": "AI Innovations",
+      "location": "Bangalore, India",
+      "description": "Data Scientist with expertise in Python, machine learning, and statistical analysis. Required: pandas, scikit-learn, TensorFlow/PyTorch, SQL. Experience with NLP, computer vision, or deep learning preferred. You'll build predictive models and derive insights from large datasets.",
+      "redirect_url": "https://jobs.lever.co",
+      "created": "2026-01-30T08:00:00Z",
+      "contract_type": "full_time",
+      "category": {
+        "label": "IT Jobs"
+      },
+      "salary_min": 1300000,
+      "salary_max": 2000000,
+      "adref": "mock-6"
+    },
+    {
+      "id": "mock-7",
+      "title": "Product Manager",
+      "company": "StartupX",
+      "location": "Remote",
+      "description": "Product Manager to lead product strategy and roadmap. Must have experience with agile methodologies, user stories, and stakeholder management. Technical background preferred. Strong analytical and communication skills required. You'll work cross-functionally to deliver innovative products.",
+      "redirect_url": "https://careers.microsoft.com",
+      "created": "2026-01-29T13:30:00Z",
+      "contract_type": "full_time",
+      "category": {
+        "label": "Product Jobs"
+      },
+      "salary_min": 1500000,
+      "salary_max": 2200000,
+      "adref": "mock-7"
+    },
+    {
+      "id": "mock-8",
+      "title": "Mobile App Developer",
+      "company": "MobileTech",
+      "location": "Delhi, India",
+      "description": "Mobile App Developer with experience in React Native or Flutter. Knowledge of iOS and Android development, REST APIs, and state management. Experience with native modules and app deployment to stores. You'll build cross-platform mobile applications.",
+      "redirect_url": "https://jobs.lever.co",
+      "created": "2026-01-28T10:10:00Z",
+      "contract_type": "full_time",
+      "category": {
+        "label": "IT Jobs"
+      },
+      "salary_min": 950000,
+      "salary_max": 1500000,
+      "adref": "mock-8"
+    },
+    {
+      "id": "mock-9",
+      "title": "QA Automation Engineer",
+      "company": "TestPro Solutions",
+      "location": "Chennai, India",
+      "description": "QA Automation Engineer with expertise in Selenium, Cypress, or Playwright. Strong knowledge of testing frameworks, CI/CD integration, and API testing. Experience with Python or JavaScript for test automation. You'll ensure software quality through comprehensive automated testing.",
+      "redirect_url": "https://jobs.lever.co",
+      "created": "2026-01-27T15:45:00Z",
+      "contract_type": "contract",
+      "category": {
+        "label": "IT Jobs"
+      },
+      "salary_min": 800000,
+      "salary_max": 1300000,
+      "adref": "mock-9"
+    },
+    {
+      "id": "mock-10",
+      "title": "Machine Learning Engineer",
+      "company": "DeepTech AI",
+      "location": "Bangalore, India",
+      "description": "Machine Learning Engineer to build and deploy ML models. Required: Python, TensorFlow/PyTorch, MLOps, model deployment, Docker. Experience with large-scale data processing and model optimization. You'll work on cutting-edge AI solutions.",
+      "redirect_url": "https://careers.amazon.jobs",
+      "created": "2026-01-26T09:30:00Z",
+      "contract_type": "full_time",
+      "category": {
+        "label": "IT Jobs"
+      },
+      "salary_min": 1400000,
+      "salary_max": 2100000,
+      "adref": "mock-10"
+    },
+    {
+      "id": "mock-11",
+      "title": "Software Engineering Intern",
+      "company": "Tech Startups Inc",
+      "location": "Bangalore, India",
+      "description": "Software Engineering Intern for summer internship. Looking for students with knowledge of data structures, algorithms, and at least one programming language (Java, Python, JavaScript). Great learning opportunity with mentorship from senior engineers.",
+      "redirect_url": "https://careers.amazon.jobs",
+      "created": "2026-02-04T12:00:00Z",
+      "contract_type": "internship",
+      "category": {
+        "label": "IT Jobs"
+      },
+      "salary_min": 200000,
+      "salary_max": 400000,
+      "adref": "mock-11"
+    },
+    {
+      "id": "mock-12",
+      "title": "Part-Time Web Developer",
+      "company": "FreelanceHub",
+      "location": "Remote",
+      "description": "Part-time Web Developer for ongoing projects. Flexible hours, work from anywhere. Required: HTML, CSS, JavaScript, basic React or Vue.js. WordPress experience is a plus. Perfect for students or those looking for supplemental income.",
+      "redirect_url": "https://careers.microsoft.com",
+      "created": "2026-02-03T08:20:00Z",
+      "contract_type": "part_time",
+      "category": {
+        "label": "IT Jobs"
+      },
+      "salary_min": 300000,
+      "salary_max": 600000,
+      "adref": "mock-12"
+    }
+  ]
+}
